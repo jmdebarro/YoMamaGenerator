@@ -1,6 +1,6 @@
 from adjs import adjective
 from nouns import noun
-#YO MAMA GENERATOR - takes around 5 seconds, oh well
+#YO MAMA GENERATOR - really never makes sense but oh well
 
 adj = adjective()
 noun_one = noun()
